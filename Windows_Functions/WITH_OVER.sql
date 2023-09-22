@@ -1,3 +1,5 @@
+-- Problem Statement
+
 use AdventureWorks2019;
 
 -- Use of aggregate function with over
